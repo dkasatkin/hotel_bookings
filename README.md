@@ -5,7 +5,7 @@ Here is an analysis of hotel reservations <br/>
 Dataset variables and tasks are specified at the beginning of file "hotel_bookings.ipynb
 
 
-$\large{Dataset\:  data:}$
+### Dataset data ### 
 
 * <span style="color:red"><b>Hotel</b></span> – тип отеля (<span style="color:blue">City Hotel</span> или <span style="color:blue">Resort Hotel</span>)  
 * <span style="color:red"><b>Is canceled</b></span> – бронирование было отменено -> <span style="color:blue">1</span> или <span style="color:blue">0</span> -> нет; не отмененное считается успешным
