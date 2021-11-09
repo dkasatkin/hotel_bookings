@@ -4,6 +4,8 @@
 Here is an analysis of hotel reservations <br/>
 Dataset variables and tasks are specified at the beginning of file "hotel_bookings.ipynb
 
+For viewing .ipynb files it is better to use https://www.reviewnb.com/
+
 
 ### Dataset data ### 
 
